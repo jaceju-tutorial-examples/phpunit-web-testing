@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lab4\\": "src/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
